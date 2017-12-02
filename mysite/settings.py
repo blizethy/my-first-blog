@@ -25,7 +25,7 @@ SECRET_KEY = '_(j7$0tqytn2a92@eoy*qhvp+zrzul+x9y1sf0p*o!3^r(7th6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<tu-usuario>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'blizety.pythonanywhere.com']
 
 
 # Application definition
